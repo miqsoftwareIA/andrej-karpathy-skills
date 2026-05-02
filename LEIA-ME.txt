@@ -1,0 +1,1 @@
+pedir para o claude code analisar e implmentar no modelo para melhorar a forma como ele fa codigo
